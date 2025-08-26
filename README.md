@@ -1,4 +1,4 @@
-![Preview](https://github.com/d28006/Customer-Segmentation/blob/main/Snapshot.png))
+![Preview](https://github.com/d28006/Customer-Segmentation/blob/main/Snapshot.png)
 1. Project Title / Headline
 
 Customer Segmentation Analysis: Identifying Target Groups for Marketing Strategy
