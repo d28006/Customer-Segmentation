@@ -52,7 +52,7 @@ To identify key customer clusters by analyzing their income, age, and spending h
 
 🎨 2D Scatter Visuals → Displayed clear groupings of high-income vs high-spending vs budget-conscious customers.
 
-💡 Business Impact & Insights
+7. Business Impact & Insights
 
 👩‍💼 Cluster 1: Young High Spenders → Younger age group, moderate-to-high income, very high spending scores. Ideal target for luxury and lifestyle marketing.
 
